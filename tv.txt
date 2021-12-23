@@ -82,5 +82,5 @@ tvN,mitv://ns2.hellotvvod.com:9906/0a4d0d0c6e164cd093061bc31cf30ae8
 
 
 
-新加坡,#genre#
+新加坡_9878
 Mediacorp_9878 U,mitv://ns2.hellotvvod.com:9906/391ec17d9d6b4a388058068361342e7f
