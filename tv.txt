@@ -1,4 +1,1 @@
 台湾频道,#genre#
-大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-香港频道,#genre#
-大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
